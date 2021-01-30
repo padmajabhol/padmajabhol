@@ -16,6 +16,9 @@ I'm a Frontend Developer and I m currently in my first semester.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
+### GitHub Stats 📈
+[![Padmaja's github stats](https://github-readme-stats.vercel.app/api?username=padmajabhol&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
                                                                                                                           
