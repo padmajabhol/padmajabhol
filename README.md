@@ -19,6 +19,13 @@ I'm a Frontend Developer and I m currently in my first semester.
 ### GitHub Stats 📈
 [![Padmaja's github stats](https://github-readme-stats.vercel.app/api?username=padmajabhol&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/padmajabhol/count.svg" />
+</p>
+
+
+
 
 
                                                                                                                           
