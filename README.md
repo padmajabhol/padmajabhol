@@ -1,11 +1,11 @@
 ## Hey 👋, I am Padmaja Bhol
-I'm a Frontend Developer and I m currently in my first semester.
+I'm a Frontend Developer and I m in my freshman year at college.
 <br>
 <img align="right" width="50%" src="https://user-images.githubusercontent.com/54095539/103103952-894d4980-464a-11eb-8670-5b026829077b.png">
 
 
 - 🌱 I’m currently learning react and javascript.
-- ⚡ Facts about me: I m also into sketching and history. I like memes too. ;)
+- ⚡ Facts about me: I m somewhat into sketching and I read a lot of history. 
 
 
 ### Tech Stacks:
