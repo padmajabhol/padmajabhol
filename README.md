@@ -17,7 +17,7 @@ I'm a Frontend Developer and I m in my freshman year at college.
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
 ### GitHub Stats 📈
-[![Padmaja's github stats](https://github-readme-stats.vercel.app/api?username=padmajabhol&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  ![Padmaja's github stats](https://github-readme-stats.vercel.app/api?username=padmajabhol&count_private=true&show_icons=true&theme=radical)
 
 
 
