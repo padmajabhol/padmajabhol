@@ -8,7 +8,8 @@ I'm a Frontend Developer and I m in my freshman year at college.
 - ⚡ Facts about me: I m somewhat into sketching and I read a lot of history. 
 
 
-### Tech Stacks:
+### Languages, Frameworks, and Tools 💻
+<p float="left">
 <img style="padding:5px;" align="center" alt="C" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png">
 <img style="padding:5px;" align="center" alt="ReactJs" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
 <img style="padding:5px;" align="center" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
