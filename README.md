@@ -9,19 +9,22 @@ I'm a Frontend Developer and I m in my freshman year at college.
 
 
 ### Tech Stacks:
+<img style="padding:5px;" align="center" alt="C" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png">
+<img style="padding:5px;" align="center" alt="ReactJs" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
+<img style="padding:5px;" align="center" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<img style="padding:5px;" align="center" alt="HTML" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+<img style="padding:5px;" align="center" alt="CSS" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+<img style="padding:5px;" align="center" alt="BootStrap" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
+<img style="padding:5px;" align="center" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+<img style="padding:5px;" align="center" alt="VS Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
 
-##### Front-End Stack
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
-### GitHub Stats 📈
-  ![Padmaja's github stats](https://github-readme-stats.vercel.app/api?username=padmajabhol&count_private=true&show_icons=true&theme=radical)
+
+
   
   
-### Spotify Playing 🎧
-[![Spotify](https://novatorem.31jeyavrtjck6mulpeotx67uvls4?si=u6r30MUxQxqi47GcVGiKyQ&nd=1.vercel.app/api/spotify)](https://open.spotify.com/user/31jeyavrtjck6mulpeotx67uvls4?si=u6r30MUxQxqi47GcVGiKyQ&nd=1)
+  
+
 
 
 
