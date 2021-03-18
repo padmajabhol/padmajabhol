@@ -21,7 +21,7 @@ I'm a Frontend Developer and I m in my freshman year at college.
   
   
 ### Spotify Playing 🎧
-[![Spotify](https://novatorem.padmajabhol.vercel.app/api/spotify)](https://open.spotify.com/user/31jeyavrtjck6mulpeotx67uvls4?si=u6r30MUxQxqi47GcVGiKyQ&nd=1)
+[![Spotify](https://novatorem.31jeyavrtjck6mulpeotx67uvls4?si=u6r30MUxQxqi47GcVGiKyQ&nd=1.vercel.app/api/spotify)](https://open.spotify.com/user/31jeyavrtjck6mulpeotx67uvls4?si=u6r30MUxQxqi47GcVGiKyQ&nd=1)
 
 
 
