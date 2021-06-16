@@ -20,9 +20,11 @@ I'm a Frontend Developer and I m in my freshman year at college.
 <img style="padding:5px;" align="center" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 <img style="padding:5px;" align="center" alt="VS Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
   
-### GitHub Stats 📈
-  ![Padmaja's github stats](https://github-readme-stats.vercel.app/api?username=padmajabhol&count_private=true&show_icons=true&theme=radical)  
-  
+<h2 align="center">🐦 Github Statistics </h2>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=padmajabhol&layout=compact&hide=html&theme=jolly" alt="padmajabhol" />&nbsp;&nbsp;&nbsp;&nbsp;
+</p
+ 
   ![](https://activity-graph.herokuapp.com/graph?username=padmajabhol&theme=react-dark&hide_border=true&area=true)
 
 
