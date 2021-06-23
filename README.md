@@ -6,6 +6,7 @@ I'm a Frontend Developer and I m in my freshman year at college.
 
 - 🌱 I’m currently learning react and javascript.
 - ⚡ Facts about me:I love community building and I m currently sharing thread tutorials about react and ES6 on my twitter handle.
+     Ping me incase you are bored and I ll tell you endless paranormal tales.
 - 👯 I love working on opensource projects.
 
 
