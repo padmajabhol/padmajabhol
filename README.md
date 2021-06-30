@@ -23,9 +23,7 @@ I'm a Frontend Developer and I m in my freshman year at college.
   
   
 <h2 align="center">🐦 Github Statistics </h2>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=padmajabhol&layout=compact&hide=html&theme=jolly" alt="padmajabhol" />&nbsp;&nbsp;&nbsp;&nbsp;
-</p
+<p align='center'><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=padmajabhol&theme=radical" alt="padmaja bhol" />&nbsp; &nbsp;<img width="400px" src="https://github-readme-stats.vercel.app/api?username=padmajabhol&count_private=true&theme=radical"/></p>
  
   ![](https://activity-graph.herokuapp.com/graph?username=padmajabhol&theme=react-dark&hide_border=true&area=true)
 	
