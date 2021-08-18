@@ -28,7 +28,8 @@ I'm a Frontend Developer and I m in my freshman year at college.
 ---
 
 ### Medium Blogs ✍🏻
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@brpadmaja224/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@brpadmaja224/0" alt="Recent Article 0">
+<a target="_blank" href="https://brpadmaja224.medium.com/behind-the-scenes-with-javascript-an-introduction-9403dbf0c462" href="https://github-readme-medium-recent-article.vercel.app/medium/@brpadmaja224/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@brpadmaja224/0" alt="Recent Article 0">
+
 	
 ---
 ### Tech Stacks
