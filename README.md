@@ -45,6 +45,11 @@ I'm a Frontend Developer and I m in my freshman year at college.
  
   ![](https://activity-graph.herokuapp.com/graph?username=padmajabhol&theme=react-dark&hide_border=true&area=true)
 	
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/padmajabhol/count.svg" />
+</p>
+	
 	
 
 
