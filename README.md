@@ -1,6 +1,6 @@
 
-## Hey 👋, I am Padmaja Bhol
-I'm a Frontend Developer and I m in my freshman year at college.
+## Hey 👋, I'm Padmaja.
+I'm a Frontend Developer & a sophomore at college. 
 <br>
 <img align="right" width="40%" src="https://user-images.githubusercontent.com/54095539/103103952-894d4980-464a-11eb-8670-5b026829077b.png">
 
@@ -38,9 +38,10 @@ I'm a Frontend Developer and I m in my freshman year at college.
 </p>
 	
 ---
+![](https://komarev.com/ghpvc/?username=padmajabhol&color=79FFE1)	
   
   
-<h2 align="center">🐦 Github Statistics </h2>
+<!-- <h2 align="center">🐦 Github Statistics </h2>
 <p align='center'><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=padmajabhol&theme=radical" alt="padmaja bhol" />&nbsp; &nbsp;<img width="400px" src="https://github-readme-stats.vercel.app/api?username=padmajabhol&count_private=true&theme=radical"/></p>
  
   ![](https://activity-graph.herokuapp.com/graph?username=padmajabhol&theme=react-dark&hide_border=true&area=true)
@@ -48,7 +49,7 @@ I'm a Frontend Developer and I m in my freshman year at college.
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/padmajabhol/count.svg" />
-</p>
+</p> -->
 	
 	
 
