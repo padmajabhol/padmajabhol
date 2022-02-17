@@ -1,6 +1,6 @@
 
 ## Hey 👋, I'm Padmaja.
-I'm a Frontend Developer & a sophomore at college. 
+I'm a full stack developer, a cloud enthusiaist and a newbie in DevOps engineering. 
 <br>
 <img align="right" width="40%" src="https://user-images.githubusercontent.com/54095539/103103952-894d4980-464a-11eb-8670-5b026829077b.png">
 
