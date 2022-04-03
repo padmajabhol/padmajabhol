@@ -5,7 +5,7 @@ I'm a full stack developer, a cloud enthusiaist and a newbie in DevOps engineeri
 <img align="right" width="40%" src="https://user-images.githubusercontent.com/54095539/103103952-894d4980-464a-11eb-8670-5b026829077b.png">
 
 
-- 🌱 I’m currently learning to survive the pandemic 🤧
+- 🌱 I’m currently learning to survive the ~~pandemic~~ offline semester. 🤧
 - ⚡ Facts about me:I love community building and collaborating with fellow developers.👩‍💻
 - 👯 I’m looking to collaborate on Hackathons, Open-Source Projects, or Internships 🙅‍♀️
 
